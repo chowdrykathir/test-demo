@@ -3,10 +3,7 @@ import Role from './role.js';
 import Customer from './customer.js';
 import Product from './product.js';
 import Arole from './arole.js';
-
-
-
-
+// Just for testing purposes
 function App(){
 
     var user = [{
