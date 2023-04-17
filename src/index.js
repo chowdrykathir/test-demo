@@ -1,0 +1,10 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+//import User from './user';
+//import Adduser from './Adduser';
+//import Arole from './arole';
+ReactDOM.render(<App />, document.getElementById('root'));
+//ReactDOM.render(<User />, document.getElementById('root'));
+//ReactDOM.render(<Adduser />, document.getElementById('root'));
+//ReactDOM.render(<Arole />, document.getElementById('root'));
