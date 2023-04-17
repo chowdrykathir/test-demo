@@ -1,6 +1,5 @@
 function Role(props){
-    console.log("Role List--->",props.RoleList);
-
+ // Jsut removed console.log
   return(
   
     <div>
