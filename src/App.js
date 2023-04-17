@@ -4,6 +4,7 @@ import Customer from './customer.js';
 import Product from './product.js';
 import Arole from './arole.js';
 // Just for testing purposes
+// update our code for compare with existing branch
 function App(){
 
     var user = [{
